@@ -1,5 +1,9 @@
 # Release Notes
 
+## 2.5.0
+
+* Add rename handler.
+
 ## 2.4.0
 
 * Support `float` field type.
